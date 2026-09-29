@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Pratik 👋
 
-<!--
-**HeyyPratik/HeyyPratik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **B.Tech IT Student**
+🌱 Currently learning **C, C++ & Python**
+🤖 Planning to dive deeper into **AI/ML**
+🎮 Gamer | 🏋️ Fitness | 🎌 Anime | 💻 Coding
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+
+* C Programming
+* C++
+* Python
+* Data Structures & Algorithms
+* AI / Machine Learning *(coming soon)*
+
+### 🎯 Goals
+
+* Build my first real-world projects
+* Get strong at programming fundamentals
+* Learn AI/ML from the ground up
+* Contribute to open-source projects
+* Turn ideas into things that actually work
+
+###
+
